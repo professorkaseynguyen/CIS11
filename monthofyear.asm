@@ -1,5 +1,5 @@
-Lab#6: Months in a Year
-By KC
+;Lab#6: Months in a Year
+;By KC
 ; This program acquires user inputs (0-11) and outputs the
 ; Months in a Year
 ; Inputs: "Enter a number 0-11 and push Enter: "
